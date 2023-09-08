@@ -511,6 +511,8 @@ Start by forking this repository:
 Then, go to your forked repository and edit the file `.github/workflows/main.yml`:
 ![edit](./media/edit.png)
 
+test
+
 Add the following to the file:
 ```yaml
 name: Testing QuickPizza
